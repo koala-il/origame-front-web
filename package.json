@@ -23,7 +23,7 @@
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.8.3",
     "@babel/plugin-proposal-optional-chaining": "^7.9.0",
     "@vue/cli-plugin-babel": "~4.2.0",
-    "@vue/cli-plugin-e2e-cypress": "~4.2.0",
+    "@vue/cli-plugin-e2e-cypress": "~5.0.8",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-plugin-pwa": "~4.2.0",
     "@vue/cli-plugin-router": "~4.2.0",
